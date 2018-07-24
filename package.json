@@ -1,0 +1,41 @@
+{
+
+  "name": "write-files-atomic",
+  "version": "0.0.0",
+  "description": "Write many files atomically",
+  "main": "index.js",
+  "repository": "https://github.com/jamiebuilds/write-files-atomic",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "write",
+    "files",
+    "file",
+    "many",
+    "fs",
+    "writeFile",
+    "atomic",
+    "atomically",
+    "write-file-atomic",
+    "write-file",
+    "file-atomic",
+    "write-atomic"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "flow-bin": "^0.77.0",
+    "write-file-atomic": "^2.3.0"
+  },
+  "dependencies": {
+    "fixturez": "^1.1.0",
+    "graceful-fs": "^4.1.11",
+    "signal-exit": "^3.0.2",
+    "tempy": "^0.2.1"
+  }
+}
