@@ -1,7 +1,6 @@
 {
-
   "name": "write-files-atomic",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Write many files atomically",
   "main": "index.js",
   "repository": "https://github.com/jamiebuilds/write-files-atomic",
