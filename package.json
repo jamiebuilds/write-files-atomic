@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/jamiebuilds/write-files-atomic",
   "author": "Jamie Kyle <me@thejameskyle.com>",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "files": [
     "index.js"
   ],
